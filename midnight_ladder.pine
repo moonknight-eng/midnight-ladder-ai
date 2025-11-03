@@ -1,0 +1,4 @@
+//@version=5
+strategy("Midnight 6-13-25-36 Ladder (Pine example)", overlay=true)
+// Paste the full Pine Script strategy from the earlier message into TradingView. This file is a placeholder.
+plot(close, color=color.blue)
